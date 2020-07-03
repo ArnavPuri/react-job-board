@@ -8,7 +8,7 @@ export default function FilterBar(props) {
                 <div className="filters">{filters.map((filter) =>
                     <div className={'filter-chip'}>
                         <div className={'filter-name'}>{filter}</div>
-                        <span className={'remove-button'} onClick={(e) => props.removeFilter(filter)}>x</span></div>)}
+                        <span className={'remove-button'} onClick={(e) => props.removeFilter(filter)}>✖</span></div>)}
                 </div>
                 <p className="clear" onClick={(event => props.clearFilters())}>Clear</p>
             </div>}

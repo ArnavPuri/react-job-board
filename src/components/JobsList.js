@@ -4,7 +4,6 @@ import jobsRaw from "../data.json";
 import FilterBar from "./FilterBar";
 
 export default function JobsList(props) {
-    // let jobs = jobsRaw;
     let [jobs, setJobs] = useState(jobsRaw);
     let [languageFilters, setLanguageFilters] = useState([]);
     let [toolFilters, setToolFilters] = useState([]);
