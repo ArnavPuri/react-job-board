@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3dacd9fb4f7557c286d70eef5381115",
+    "revision": "e89d3e028b588466c3a0a1a813374665",
     "url": "/react-job-board/index.html"
   },
   {
-    "revision": "3403f3e5e8df3b714e53",
-    "url": "/react-job-board/static/css/main.9312356d.chunk.css"
+    "revision": "64d520eea57ffb0d8777",
+    "url": "/react-job-board/static/css/main.1d27c981.chunk.css"
   },
   {
     "revision": "6cf6fd72bf57914ebcad",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-job-board/static/js/2.a7f62ea6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3403f3e5e8df3b714e53",
-    "url": "/react-job-board/static/js/main.6893522d.chunk.js"
+    "revision": "64d520eea57ffb0d8777",
+    "url": "/react-job-board/static/js/main.97f28034.chunk.js"
   },
   {
     "revision": "cc01e19dd89bbb363a82",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dbfc9944e2fe091285e5513802fd612a",
     "url": "/react-job-board/static/media/account.dbfc9944.svg"
+  },
+  {
+    "revision": "8422cd12ef178794656cfa4fb5612d72",
+    "url": "/react-job-board/static/media/bg-dark-header-desktop.8422cd12.svg"
+  },
+  {
+    "revision": "a32bcb642604dc26292bd3528be77bdb",
+    "url": "/react-job-board/static/media/bg-dark-header-mobile.a32bcb64.svg"
   },
   {
     "revision": "7bbdb56b6ccb2dd96c38e0be1ce79000",
