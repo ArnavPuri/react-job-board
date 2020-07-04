@@ -23,11 +23,11 @@ export default function JobCard(props) {
                         <p>{job.location}</p>
                     </div>
                 </div>
-                <div className="tags">
+                <ul className="tags">
                     {job.languages.map((language) => <li onClick={(e) => props.toggleLanguageFilter(language)}
                                                          key={language}>{language}</li>)}
                     {job.tools.map((tool) => <li onClick={(e) => props.toggleToolFilter(tool)} key={tool}>{tool}</li>)}
-                </div>
+                </ul>
             </div>
 
         </div>

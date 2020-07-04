@@ -46,6 +46,10 @@ body, .main-container {
     padding: 12px;
 }
 
+.dark-header {
+    background-image: url("./images/bg-dark-header-desktop.svg");
+}
+
 .row {
     display: flex;
     align-items: center;
@@ -259,6 +263,10 @@ body, .main-container {
 @media screen and (max-width: 420px) {
     .header {
         background-image: url("./images/bg-header-mobile.svg");
+    }
+
+    .dark-header {
+        background-image: url("./images/bg-dark-header-mobile.svg");
     }
 
     .details {
